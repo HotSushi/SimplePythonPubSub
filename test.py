@@ -2,6 +2,9 @@ import pubsub
 import sys
 import time
 
+__author__ = "Sushant Raikar"
+__email__ = "sushantraikar123@yahoo.com"
+
 """
     usage:
         python test.py PUB

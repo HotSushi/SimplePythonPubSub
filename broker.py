@@ -2,6 +2,9 @@ import socket
 import thread
 import sys
 
+__author__ = "Sushant Raikar"
+__email__ = "sushantraikar123@yahoo.com"
+
 def main():
     """
     usage:
